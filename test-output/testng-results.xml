@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-05T18:49:24Z" name="Default suite" finished-at="2023-02-05T18:49:53Z" duration-ms="28127">
+    <groups>
+    </groups>
+    <test started-at="2023-02-05T18:49:24Z" name="Default test" finished-at="2023-02-05T18:49:53Z" duration-ms="28127">
+      <class name="com.sastaticket.tests.TestTicketWorkflow">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sastaticket.tests.TestTicketWorkflow@398dada8]" started-at="2023-02-05T23:49:17Z" name="setUp" finished-at="2023-02-05T23:49:24Z" duration-ms="7188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTestTicketWorkflow()[pri:0, instance:com.sastaticket.tests.TestTicketWorkflow@398dada8]" started-at="2023-02-05T23:49:24Z" name="verifyTestTicketWorkflow" finished-at="2023-02-05T23:49:53Z" duration-ms="28114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestTicketWorkflow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sastaticket.tests.TestTicketWorkflow@398dada8]" started-at="2023-02-05T23:49:53Z" name="tearDown" finished-at="2023-02-05T23:50:03Z" duration-ms="10374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sastaticket.tests.TestTicketWorkflow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
